@@ -1,0 +1,5 @@
+**/__pycache__/
+.env
+.venv
+data/*.db
+202507112358.md

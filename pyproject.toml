@@ -1,0 +1,12 @@
+[project]
+name = "schedule-discord-bot"
+version = "0.1.0"
+description = ""
+readme = "README.md"
+dependencies = [
+    "aiosqlite>=0.21.0",
+    "discord-py>=2.5.2",
+    "openai>=1.95.0",
+    "orjson>=3.10.18",
+    "python-dotenv>=1.1.1",
+]
